@@ -7,5 +7,4 @@
 Дополнительно реализована настройка цвета бегунка.
 В проекте на SwiftUI использован UISlider.
 
-![Screnshot](https://github.com/maksimgurkov/GameSlyder/assets/95706892/b91fc367-d862-4dac-ac34-caa127e46ce6
 ![Снимок экрана 2023-05-24 в 12 49 21](https://github.com/maksimgurkov/GameSlyder/assets/95706892/b91fc367-d862-4dac-ac34-caa127e46ce6)
